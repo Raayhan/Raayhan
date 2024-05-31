@@ -5,7 +5,7 @@
 
 
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats-eight-alpha-48.vercel.app/api?username=Raayhan&show_icons=true&theme=transparent&hide_rank=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars,reviews,discussions_started,discussions_answered&count_private=true&include_all_commits=true&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats-eight-alpha-48.vercel.app/api?username=Raayhan&show_icons=true&theme=transparent&hide_rank=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=contribs,stars,reviews,discussions_started,discussions_answered&count_private=true&include_all_commits=true&card_width=300" />
 </a>
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats-eight-alpha-48.vercel.app/api/top-langs/?username=Raayhan&layout=compact&hide=html,css,blade,scss,Hack&card_width=300" />
